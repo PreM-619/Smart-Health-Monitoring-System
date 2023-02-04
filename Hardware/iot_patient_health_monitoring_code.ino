@@ -62,7 +62,7 @@ delay(5000);
 ser.println("AT+CIPMUX=1");
 delay(1000);
  
-String cmd="AT+CWJAP=\"iPhone\",\"yashpatil\"";
+String cmd="AT+CWJAP=\"iPhone\",\"premraj\"";
 ser.println(cmd);
 delay(1000);
 ser.println("AT+CIFSR");
