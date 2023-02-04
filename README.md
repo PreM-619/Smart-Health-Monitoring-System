@@ -2,7 +2,7 @@
 An IoT based health monitoring system capable of recording Pulse &amp; temp details of patient and making it accessible through Thingspeak IoT
 
 For performing Software:
->> Download & Install proteus in your Desktop.
+>>Download & Install proteus in your Desktop.
 >>Clone the Proteus simulation folder into your desktop
 >>Open the .pdsprj file in proteus
 >>Double click on Arduino/Pulse sensor to check the source code is attached.
